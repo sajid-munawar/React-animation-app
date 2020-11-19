@@ -5,7 +5,7 @@ import useWebAnimations from "@wellyshen/use-web-animations";
 
 export default function Cloud() {
     
-  const { ref, playState,getAnimation } = useWebAnimations({
+  const { ref } = useWebAnimations({
     keyframes: [
        {transform:"translateX(100%)"}
        
@@ -21,8 +21,8 @@ export default function Cloud() {
         <div>
             
             <div ref={ref}>
-                <img src={cloud} className="cloud"></img>
-                <img src={cloud} className="cloud"></img>
+                <img src={cloud} className="cloud" alt="cloud"></img>
+                <img src={cloud} className="cloud" alt="cloud"></img>
             </div>
         
         </div>

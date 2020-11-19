@@ -8,7 +8,7 @@ export default function Boy() {
         <div>
             
             <div className="boy" >
-                <img src={boy} ></img>
+                <img src={boy} alt="boy"></img>
                
             </div>
         

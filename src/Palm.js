@@ -16,7 +16,7 @@ export default function Palm() {
     })
     return (
         <div  ref={ref}>
-            <img src={palm} className="palm"></img>
+            <img src={palm} className="palm" alt="palm"></img>
 
         </div>
     )

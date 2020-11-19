@@ -18,7 +18,7 @@ export default function Bird() {
         <div ref={ref}>
             
             <div >
-                <img src={bird} className="bird"></img>
+                <img src={bird} className="bird" alt="bird"></img>
                
             </div>
         
