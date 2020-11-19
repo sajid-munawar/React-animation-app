@@ -13,13 +13,14 @@
   width: 200px;
   position: absolute;
   left: 50%;
-  top: 60%;
+  top: 55%;
   /* text-align: center; */
   /* align-items: center; */
   /* margin: auto; */
 }
 .palm{
-  position: absolute;
-  left: 20%;
-  top: 60%;
+  position: relative;
+  /* left: 20%; */
+  top: 90%;
+  bottom: 0px;
 }

@@ -10,11 +10,11 @@ import Boy from './Boy';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
     <Cloud/>
     <Bird/>
     
     <Boy/>
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );

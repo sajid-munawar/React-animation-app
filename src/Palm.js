@@ -9,14 +9,14 @@ export default function Palm() {
             { transform: "translateX(100%)" }
         ],
         timing: {
-            duration: 1000,
+            duration: 4000,
             iterations: Infinity,
             direction: "reverse"
         }
     })
     return (
-        <div className="palm" ref={ref}>
-            <img src={palm}></img>
+        <div  ref={ref}>
+            <img src={palm} className="palm"></img>
 
         </div>
     )
