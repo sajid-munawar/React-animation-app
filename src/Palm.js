@@ -9,7 +9,7 @@ export default function Palm() {
             { transform: "translateX(100%)" }
         ],
         timing: {
-            duration: 4000,
+            duration: 7000,
             iterations: Infinity,
             direction: "reverse"
         }
