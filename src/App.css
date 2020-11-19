@@ -3,3 +3,23 @@
   width: 200px;
   height: 100px;
 }
+.cloud {
+  width: 200px;
+}
+.bird {
+  width: 100px;
+}
+.boy {
+  width: 200px;
+  position: absolute;
+  left: 50%;
+  top: 60%;
+  /* text-align: center; */
+  /* align-items: center; */
+  /* margin: auto; */
+}
+.palm{
+  position: absolute;
+  left: 20%;
+  top: 60%;
+}

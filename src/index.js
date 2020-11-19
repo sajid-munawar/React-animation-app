@@ -3,10 +3,18 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Cloud from './Cloud';
+import Bird from './Bird';
+import Boy from './Boy';
+
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
+    <Cloud/>
+    <Bird/>
+    
+    <Boy/>
   </React.StrictMode>,
   document.getElementById('root')
 );
