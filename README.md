@@ -4,3 +4,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## yarn add @wellyshen/use-web-animations
 For animation library
+
+We are not the Graphic designers but we can add some animations through web animation Api to look a web attractive
